@@ -14,7 +14,10 @@ namespace ProjectCommon
             _id = id;
         }
 
-        private string _name;
-        private int _id;
+        private int     _customerId;
+
+        private string  _name;
+        private int     _id;
+
     }
 }
